@@ -1,7 +1,7 @@
 # DualCameraRecorder
 
-- Dual-lens video recording function (picture-in-picture)
-- 雙鏡頭錄影功能（畫中畫）
+- Dual-lens video recording function
+- 雙鏡頭錄影功能
 
 ![PIP](DualCameraRecorder.PNG)
 
