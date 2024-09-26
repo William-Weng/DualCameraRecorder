@@ -453,7 +453,7 @@ private extension ViewController {
         }
     }
         
-    /// 儲存圖片到相簿 (∵ 前鏡頭的照片會左右相反 ∴ 水平翻轉再儲存)
+    /// 儲存圖片到相簿 (∵ 前鏡頭的照片會左右相反 ∴ 翻轉再儲存)
     /// - Parameter photos: [AVCapturePhoto]
     func storePicture(with photos: [AVCapturePhoto]) {
         
